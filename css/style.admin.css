@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "sahel";
+	src: url(../fonts/Sahel-FD-WOL.eot) format("eot"), url(../fonts/Sahel-FD-WOL.ttf) format("truetype"), url(../fonts/Sahel-FD-WOL.woff) format("woff");
+}
+body,#adminmenu div.wp-menu-name,#update-nag, .update-nag,.postbox .inside h2, .wrap [class$=icon32]+h2, .wrap h1, .wrap>h2:first-child,.form-table td .notice p, .notice p, .notice-title, div.error p, div.updated p,.cmb-repeatable-group .cmb-group-title,.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6,
+#titlediv #title,#tinymce,.postbox .inside, .stuffbox .inside,body.rtl, body.rtl .press-this a.wp-switch-editor,.cmb-th label {
+	font-family: "sahel","Myriad Pro";
+}
